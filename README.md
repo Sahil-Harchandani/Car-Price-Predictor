@@ -44,7 +44,7 @@ A local, interactive Streamlit app that trains a simple linear-regression model�
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Component            | Technology                        |
 |----------------------|-----------------------------------|
@@ -73,7 +73,7 @@ Car-Price-Predictor/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/8cf4f094-361a-4e44-8ef0-219a83420908" width="45%" alt="Input Form"/>
@@ -82,13 +82,13 @@ Car-Price-Predictor/
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for full details.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!  
 1. Fork the repo  
@@ -99,7 +99,7 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 - **Streamlit** – effortless, interactive UIs  
 - **scikit-learn** – solid linear regression modeling  
